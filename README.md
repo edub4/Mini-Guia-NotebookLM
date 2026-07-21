@@ -1,3 +1,15 @@
+# MiniGuia-NotebookLM: Especialista em Desenvolvimento Profissional no LinkedIn e GitHub
+
+Projeto desenvolvido como desafio prático da DIO, utilizando o NotebookLM como ferramenta de aprendizagem ativa para criar um especialista em desenvolvimento profissional focado em LinkedIn, GitHub e carreira em Tecnologia.
+
+## Contexto
+
+Construir uma boa presença profissional na internet tornou-se um diferencial para conquistar oportunidades de estágio, emprego e crescimento na área de tecnologia.
+
+O LinkedIn funciona como um currículo vivo e uma rede de networking, enquanto o GitHub demonstra, na prática, as habilidades técnicas por meio de projetos e documentação.
+
+Neste projeto foi criado um NotebookLM Especialista em Desenvolvimento Profissional, reunindo materiais de referência para atuar como um mentor capaz de orientar melhorias contínuas no LinkedIn, GitHub, portfólio e desenvolvimento de carreira.
+
 ## Curadoria de Fontes
 
 Para construir o **NotebookLM Especialista em Desenvolvimento Profissional**, selecionei fontes confiáveis e atualizadas sobre carreira em tecnologia, LinkedIn, GitHub, desenvolvimento profissional e boas práticas de Engenharia de Software. Essas referências foram utilizadas como base de conhecimento para o NotebookLM responder perguntas, gerar resumos e apoiar meu aprendizado.
